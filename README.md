@@ -12,6 +12,6 @@ My Notes:
 
 
 | Terms  | My Definition |
-| ------------- | ------------- |
+| :-------------: | ------------- |
 | **Objects**   | Representation of physical things. |
 | Content Cell  | Content Cell  |
