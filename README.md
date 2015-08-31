@@ -1,6 +1,6 @@
-# Learn Python The Hard Way
-![Learn Python The Hard Way](/javascript-book-cover.jpg)
+# Javascript and Jquery Book 
+![Javascript and Jquery](/javascript-book-cover.jpg)
 
-Teaching myself Python just to be familiar with different technologies. 
+Learning and mastering the basics and fundamentals of Javascript. 
 
-These exercises were done and taken from an e-book: http://learnpythonthehardway.org/book/ 
+These exercises were done and taken from: http://www.javascriptbook.com/
