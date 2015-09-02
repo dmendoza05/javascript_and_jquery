@@ -13,7 +13,9 @@ My Notes:
 ---
 
 
-| Terms  | My Definition |
+| Terms  | Definition |
 | :-------------: | ------------- |
-| **Objects**   | Representation of physical things. |
-| Content Cell  | Content Cell  |
+| Objects | Representation of physical things. |
+| Properties | The name and value that tells you something about the object. |
+| Events | Triggers or switches to tell the script to do an action. |
+| Methods | Questions or instructions to tell you about the object. |
