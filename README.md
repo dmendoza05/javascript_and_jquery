@@ -19,3 +19,4 @@ My Notes:
 | Properties | The name and value that tells you something about the object. |
 | Events | Triggers or switches to tell the script to do an action. |
 | Methods | Questions or instructions to tell you about the object. |
+| Statements | Each individual instruction or step. |
