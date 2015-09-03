@@ -20,3 +20,6 @@ My Notes:
 | Events | Triggers or switches to tell the script to do an action. |
 | Methods | Questions or instructions to tell you about the object. |
 | Statements | Each individual instruction or step. |
+| Code Blocks | Statementss that are surrounded by curly braces. |
+| Comments | Explanation on how your code works. |
+| Variables | Where Javascript stores bits of information. |
